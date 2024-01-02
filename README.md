@@ -1,0 +1,2 @@
+# ArcoLinuxB-river Calamares configuration
+
