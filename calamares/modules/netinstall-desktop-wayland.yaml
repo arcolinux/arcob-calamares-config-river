@@ -8,9 +8,7 @@
   packages:
     - archlinux-logout-git
     - arcolinux-hyprland-git
-    - arcolinux-hyprland-profile-git
     - arcolinux-kitty-git
-    - arcolinux-wayland-profile-git
     - hyprland-git
     - kitty
     - swaybg
@@ -31,8 +29,6 @@
     - arcolinux-kitty-git
     - arcolinux-nwg-drawer-git
     - arcolinux-sway-git
-    - arcolinux-sway-profile-git
-    - arcolinux-wayland-profile-git
     - kitty
     - nwg-drawer-bin
     - rofi-lbonn-wayland-only-git
@@ -44,7 +40,7 @@
     - ttf-iosevka-nerd
     - waybar
 - name: "Desktop: Wayfire - Wayland"
-  description: "Installs river - only on real metal"
+  description: "Installs wayfire - only on real metal"
   critical: false
   hidden: false
   selected: false
@@ -57,9 +53,9 @@
     - arcolinux-kitty-git
     - arcolinux-rofi-git
     - arcolinux-rofi-themes-git
-    - arcolinux-wallpapers-river-git
-    - arcolinux-river-dconf-git
-    - arcolinux-river-nemesis-git
+    - arcolinux-wallpapers-wayfire-git
+    - arcolinux-wayfire-dconf-git
+    - arcolinux-wayfire-nemesis-git
     - arcolinux-xfce-git
     - feh
     - foot
@@ -78,8 +74,8 @@
     - ttf-font-awesome
     - ttf-jetbrains-mono-nerd
     - waybar
-    - river-git
-    - river-plugins-extra-git
+    - wayfire-git
+    - wayfire-plugins-extra-git
     - wcm-git
     - wf-kill-git
     - wf-shell-git
